@@ -23,7 +23,8 @@
                     "net/minecraft/unmapped/C_tyjpezxh$C_utmdutep",
                     "net/minecraft/unmapped/C_wbhfljwo"
                 ],
-                "simple_type_field_names_path": "./simple_type_field_names.json5"
+                "simple_type_field_names_path": "./simple_type_field_names.json5",
+		"entity_rendering": "./entity_rendering.json5"
             }
         },
         "obfuscation_test": {
